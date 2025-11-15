@@ -1,0 +1,5 @@
+{
+  "name": "PHIVOLCS Earthquake Viewer",
+  "description": "A web application to display and visualize recent earthquake data with a magnitude of 3.0 or higher, sourced from PHIVOLCS. It features a sortable data table, summary statistics, and a magnitude distribution chart.",
+  "requestFramePermissions": []
+}
